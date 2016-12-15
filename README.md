@@ -1,2 +1,9 @@
 # hello_github
-Restart using github
+
+github使い直し。プルリクエストも体験してみた。
+
+
+## いきなりやらかす。
+
+初回はいきなりcloseからのブランチ削除とかやらかした。
+再チャレンジしたい。
